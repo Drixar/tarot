@@ -13,9 +13,9 @@ const Menu = () => {
             </div>
             <div>
             <ul className="menu">
-                <li><a>Inicio</a></li>
-                <li><a>Nosotros</a></li>
-                <li><a>Tienda</a></li>
+                <li><a>Mazos</a></li>
+                <li><a>Libros</a></li>
+                <li><a>Cursos</a></li>
                 <li><a>Contacto</a></li>
             </ul>
             </div>
