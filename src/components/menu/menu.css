@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  display: block;
+  text-align: end;
+  color: white;
+}
+
+.encabezado {
+  margin-top: 1rem;
+  display: flex;
+  width: 100%;
+  height: 2rem;
+  color: white;
+  justify-content: space-between;
+
+  padding: 1rem 1rem 3rem 1rem;
+}
+
+img {
+  height: 2rem;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    
+}
+li {
+    display: inline;
+  }
+
+a {
+    padding: 1rem 0.75rem;
+    text-decoration: none;
+    color: white;
+    transition: border 0.3s ease;
+  }
+
+  a:hover {
+
+    color: #6375cf;
+  }
